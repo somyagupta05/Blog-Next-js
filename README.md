@@ -1,7 +1,22 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
+# Next.js Blog Page
 
+This is a single blog post page built with Next.js and Tailwind CSS.
+
+## Features
+
+- Displays a blog post with title, author, date, and content
+- SEO-friendly with meta tags
+- Responsive design (Mobile, Tablet, Desktop)
+- Dark mode toggle
+- Optimized images using Next.js' Image component
+
+## How to Run
+
+1. Clone the repository
+   
 First, run the development server:
 
 ```bash
